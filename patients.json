@@ -1,0 +1,57 @@
+[
+  {
+    "patient_id": "P001",
+    "name": "Aarav Sharma",
+    "city": "Mumbai",
+    "age": 28,
+    "gender": "Male",
+    "height": 175,
+    "weight": 72,
+    "bmi": 23.5,
+    "verdict": "Normal Weight"
+  },
+  {
+    "patient_id": "P002",
+    "name": "Priya Verma",
+    "city": "Pune",
+    "age": 34,
+    "gender": "Female",
+    "height": 162,
+    "weight": 82,
+    "bmi": 31.2,
+    "verdict": "Obese"
+  },
+  {
+    "patient_id": "P003",
+    "name": "Rohan Patel",
+    "city": "Ahmedabad",
+    "age": 22,
+    "gender": "Male",
+    "height": 180,
+    "weight": 60,
+    "bmi": 18.5,
+    "verdict": "Normal Weight"
+  },
+  {
+    "patient_id": "P004",
+    "name": "Sneha Iyer",
+    "city": "Bengaluru",
+    "age": 41,
+    "gender": "Female",
+    "height": 158,
+    "weight": 49,
+    "bmi": 19.6,
+    "verdict": "Normal Weight"
+  },
+  {
+    "patient_id": "P005",
+    "name": "Karan Singh",
+    "city": "Delhi",
+    "age": 50,
+    "gender": "Male",
+    "height": 170,
+    "weight": 92,
+    "bmi": 31.8,
+    "verdict": "Obese"
+  }
+]
